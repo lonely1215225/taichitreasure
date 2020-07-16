@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c42884dc-6462-4ded-ab88-e9dbdaeea6d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate_training@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dLCfK6P6KRzkmfHH1vyFMaJcQB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes/edu/hunau/hibernate/domain" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\hibernate_training\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\hibernate_training\target\classes\edu\hunau\hibernate\domain" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\hibernate_training\target\classes" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\hibernate_training\src\test\java" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\hibernate_training\src\main\java\edu\hunau\hibernate\domain" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\hibernate_training\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HibernateDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate_training" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HibernateDemo" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HibernateDemo.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c42884dc-6462-4ded-ab88-e9dbdaeea6d7" name="Default Changelist" comment="" />
+      <created>1592195087157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592195087157</updated>
+      <workItem from="1592195088987" duration="10048000" />
+      <workItem from="1592749785570" duration="1278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Assign_Data_Sources" timestamp="1592749913924">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="3" key="#Assign_Data_Sources/0.0.1280.689@0.0.1280.689" timestamp="1592749913924" />
+    <state x="233" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592202892351">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="3" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1592202892351" />
+    <state x="131" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592199462105">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="131" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1592199462105" />
+    <state x="410" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1592199465095">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="410" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1592199465095" />
+    <state width="1237" height="296" key="GridCell.Tab.0.bottom" timestamp="1592205163192">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1592205163192" />
+    <state width="1237" height="296" key="GridCell.Tab.0.center" timestamp="1592205163191">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1592205163191" />
+    <state width="1237" height="296" key="GridCell.Tab.0.left" timestamp="1592205163190">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1592205163190" />
+    <state width="1237" height="296" key="GridCell.Tab.0.right" timestamp="1592205163191">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1592205163191" />
+    <state x="221" y="79" key="IDE.errors.dialog" timestamp="1592200533846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="221" y="79" key="IDE.errors.dialog/0.0.1280.689@0.0.1280.689" timestamp="1592200533846" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1592201335143">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1592201335143" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1592196946665">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1592196946665" />
+  </component>
+</project>

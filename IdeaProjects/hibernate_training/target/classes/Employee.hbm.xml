@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.org/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="edu.hunau.hibernate.domain">
+
+	<class name="Employee" table="employee">
+		<id name="empId" type="int">
+			<column name="emp_id"></column>
+			<generator class="native"></generator>
+		</id>
+		
+		<property name="empName" type="string">
+			<column name="emp_name" length="32" not-null="true"></column>
+		</property>
+		
+		<property name="gender" type="string">
+			<column name="gender" length="16" not-null="true"></column>
+		</property>
+		
+		<property name="email" type="string">
+			<column name="email" ></column>
+		</property>
+		
+		<property name="salary" type="java.math.BigDecimal">
+			<column name="salary" scale="2"></column>
+		</property>
+		
+		<property name="jobTitle" type="string">
+			<column name="job_title" ></column>
+		</property>
+		
+		<many-to-one name="department" class="Department">
+			<column name="dept_id"></column>
+		</many-to-one>
+		
+		
+	</class>
+	
+	<query name="salaryEmps"><![CDATA[from Employee e where e.salary > :minSal and e.salary < :maxSal]]></query>
+</hibernate-mapping>
