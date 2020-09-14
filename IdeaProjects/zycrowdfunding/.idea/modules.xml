@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-admin-component/zycrowdfunding-admin-component.iml" filepath="$PROJECT_DIR$/zycrowdfunding-admin-component/zycrowdfunding-admin-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-admin-entity/zycrowdfunding-admin-entity.iml" filepath="$PROJECT_DIR$/zycrowdfunding-admin-entity/zycrowdfunding-admin-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-admin-parent/zycrowdfunding-admin-parent.iml" filepath="$PROJECT_DIR$/zycrowdfunding-admin-parent/zycrowdfunding-admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-admin-webui/zycrowdfunding-admin-webui.iml" filepath="$PROJECT_DIR$/zycrowdfunding-admin-webui/zycrowdfunding-admin-webui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-common-reverse/zycrowdfunding-common-reverse.iml" filepath="$PROJECT_DIR$/zycrowdfunding-common-reverse/zycrowdfunding-common-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-common-util/zycrowdfunding-common-util.iml" filepath="$PROJECT_DIR$/zycrowdfunding-common-util/zycrowdfunding-common-util.iml" />
+    </modules>
+  </component>
+</project>

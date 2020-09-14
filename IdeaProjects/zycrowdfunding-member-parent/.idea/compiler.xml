@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zycrowdfunding-member-entity" />
+        <module name="zycrowdfunding-common-util" />
+        <module name="zycrowdfunding-member-order-consumer" />
+        <module name="zycrowdfunding-member-project-consumer" />
+        <module name="zycrowdfunding-member-eureka" />
+        <module name="zycrowdfunding-member-zuul" />
+        <module name="zycrowdfunding-member-mysql-provider" />
+        <module name="zycrowdfunding-common-reverse" />
+        <module name="zycrowdfunding-member-pay-consumer" />
+        <module name="zycrowdfunding-member-redis-provider" />
+        <module name="zycrowdfunding-member-api" />
+        <module name="zycrowdfunding-member-authentication-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="atcrowdfunding-member-eureka" target="1.8" />
+      <module name="zycrowdfunding-common-reverse" target="1.8" />
+      <module name="zycrowdfunding-common-util" target="1.8" />
+      <module name="zycrowdfunding-member-api" target="1.8" />
+      <module name="zycrowdfunding-member-authentication-consumer" target="1.8" />
+      <module name="zycrowdfunding-member-entity" target="1.8" />
+      <module name="zycrowdfunding-member-eureka" target="1.8" />
+      <module name="zycrowdfunding-member-mysql-provider" target="1.8" />
+      <module name="zycrowdfunding-member-order-consumer" target="1.8" />
+      <module name="zycrowdfunding-member-parent" target="1.8" />
+      <module name="zycrowdfunding-member-pay-consumer" target="1.8" />
+      <module name="zycrowdfunding-member-project-consumer" target="1.8" />
+      <module name="zycrowdfunding-member-redis-provider" target="1.8" />
+      <module name="zycrowdfunding-member-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

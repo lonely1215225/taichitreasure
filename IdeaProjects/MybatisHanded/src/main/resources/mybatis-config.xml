@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+<!--
+    &lt;!&ndash; 读取外部的db.properties文件  &ndash;&gt;
+    <properties resource="db.properties"></properties>
+
+    &lt;!&ndash; 是否开启自动驼峰命名规则create_time createTime,默认是false &ndash;&gt;
+    <settings>
+        <setting name="mapUnderscoreToCamelCase" value="true"></setting>
+    </settings>
+
+    <typeAliases>
+        &lt;!&ndash; 单个别名的设置 &ndash;&gt;
+        &lt;!&ndash; <typeAlias type="com.zx.mybatis.entity.User" alias="user"/> &ndash;&gt;
+        &lt;!&ndash; 批量别名的设置 &ndash;&gt;
+        <package name="com.zx.mybatis.entity"/>
+    </typeAliases>-->
+
+
+    <environments default="development">
+
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url"
+                          value="jdbc:mysql://127.0.0.1:3306/bookapp"/>
+                <property name="username" value="root"/>
+                <property name="password" value="123456"/>
+            </dataSource>
+        </environment>
+
+    </environments>
+    <mappers>
+        <!-- XML映射文件 -->
+        <mapper resource="edu/IUserDao.xml"/>
+        <!-- Java 接口映射文件 -->
+        <!-- <mapper class="com.zx.mybatis.mapper.UserMapper"/> -->
+        <!-- 将包内的映射器接口实现全部注册为映射器 -->
+        <!-- <package name="com.zx.mybatis.mapper"/>  -->
+    </mappers>
+</configuration>

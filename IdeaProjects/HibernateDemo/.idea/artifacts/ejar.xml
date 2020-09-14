@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ejar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ejar</output-path>
+    <root id="archive" name="ejar.jar">
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

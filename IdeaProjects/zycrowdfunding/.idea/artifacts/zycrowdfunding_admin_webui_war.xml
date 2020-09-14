@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zycrowdfunding-admin-webui:war">
+    <output-path>$PROJECT_DIR$/zycrowdfunding-admin-webui/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>zycrowdfunding-admin-webui</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="zycrowdfunding-admin-webui-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zycrowdfunding-admin-webui:war exploded" />
+    </root>
+  </artifact>
+</component>

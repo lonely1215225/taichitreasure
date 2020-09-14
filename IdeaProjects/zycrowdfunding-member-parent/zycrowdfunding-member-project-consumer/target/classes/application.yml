@@ -1,0 +1,22 @@
+server:
+  port: 5000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+spring:
+  application:
+    name: taiChiMan-crowd-project
+  thymeleaf:
+    cache: false
+  redis:
+    host: 192.168.0.125
+  session:
+    store-type: redis
+oss:
+  properties:
+    end-point: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI4GCsbrr57U2P55pznAEC
+    access-key-secret: IkcZwaMAAuFcNCKvcub7yKRKAoLRIP
+    bucket-name: taichiman
+    bucket-domain: http://taichiman.oss-cn-beijing.aliyuncs.com

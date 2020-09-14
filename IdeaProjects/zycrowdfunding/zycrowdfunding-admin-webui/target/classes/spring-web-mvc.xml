@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/mvc https://www.springframework.org/schema/mvc/spring-mvc.xsd">
+    <context:component-scan base-package="edu.hunau.crowd.mvc"/>
+    <mvc:default-servlet-handler/>
+    <mvc:annotation-driven/>
+    <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+    <bean id="simpleMappingExceptionResolver" class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
+        <property name="exceptionMappings">
+            <props>
+                <prop key="java.lang.Exception">system-error</prop>
+            </props>
+        </property>
+    </bean>
+    <mvc:view-controller path="/admin/to/loginPage" view-name="admin-login"/>
+    <mvc:view-controller path="/admin/to/mainPage" view-name="admin-main"/>
+    <mvc:view-controller path="/admin/to/addPage" view-name="admin-add"/>
+    <mvc:view-controller path="/role/to/rolePage" view-name="role-page"/>
+    <mvc:view-controller path="/menu/to/menuPage" view-name="menu-page"/>
+    <!-- 拦截器,除了静态资源和需要登录和退出登录的页面逻辑，其他全部拦截-->
+<!--    <mvc:interceptors>-->
+<!--        <mvc:interceptor>-->
+<!--            <mvc:mapping path="/**"/>-->
+<!--            <mvc:exclude-mapping path="/admin/to/loginPage"/>-->
+<!--            <mvc:exclude-mapping path="/admin/do/login"/>-->
+<!--            <mvc:exclude-mapping path="/admin/do/logout"/>-->
+<!--            <mvc:exclude-mapping path="/static/**"/>-->
+<!--            &lt;!&ndash;            自己的拦截器&ndash;&gt;-->
+<!--            <bean class="edu.hunau.crowd.mvc.interceptor.LoginInterceptor"/>-->
+<!--        </mvc:interceptor>-->
+<!--    </mvc:interceptors>-->
+
+</beans>

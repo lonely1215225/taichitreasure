@@ -1,0 +1,27 @@
+server:
+  port: 80
+spring:
+  application:
+    name: taiChiMan-crowd-zuul
+  redis:
+    host: 192.168.0.125
+  session:
+    store-type: redis
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+zuul:
+  ignored-services: "*"
+  sensitive-headers: "*" #因为需要进行session共享，浏览器要重定向到另一个微服务要借助cookie保持信息一致，
+                          #所以要保持cookie不被改变，因为cookie在报文头中。
+  routes:
+    crowd-portal:
+      serviceId: taiChiMan-crowd-auth
+      path: /**
+    crowd-project:
+      serviceId: taiChiMan-crowd-project
+      path: /project/**
+ribbon:
+  ReadTimeout: 10000 #默认5s
+  ConnectTimeout: 10000 #默认是2s

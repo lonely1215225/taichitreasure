@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27792f95-4d30-4965-a3f8-02dcdf55ea1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b6oOO11BDzeA1Y1v1bmPmwABAh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="ServerTestNio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.ServerTestNio" />
+      <module name="JUCTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.volatiles.SingletonDemo" />
+      <module name="JUCTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.volatiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketNioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.SocketNioTest" />
+      <module name="JUCTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.pv.Test" />
+      <module name="JUCTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.pv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.pv.Test1" />
+      <module name="JUCTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.pv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ServerTestNio" />
+      <item itemvalue="Application.SocketNioTest" />
+      <item itemvalue="Application.SingletonDemo" />
+      <item itemvalue="Application.Test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.SingletonDemo" />
+        <item itemvalue="Application.SocketNioTest" />
+        <item itemvalue="Application.ServerTestNio" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27792f95-4d30-4965-a3f8-02dcdf55ea1d" name="Default Changelist" comment="" />
+      <created>1587696150435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587696150435</updated>
+      <workItem from="1587696152189" duration="31000" />
+      <workItem from="1587961904637" duration="1365000" />
+      <workItem from="1588040947390" duration="461000" />
+      <workItem from="1588129299021" duration="1220000" />
+      <workItem from="1589304832427" duration="186000" />
+      <workItem from="1591707436257" duration="864000" />
+      <workItem from="1594191817236" duration="889000" />
+      <workItem from="1597284313712" duration="8994000" />
+      <workItem from="1597379820416" duration="10741000" />
+      <workItem from="1597398894587" duration="3537000" />
+      <workItem from="1599310541241" duration="764000" />
+      <workItem from="1599311406680" duration="2044000" />
+      <workItem from="1599532199124" duration="2522000" />
+      <workItem from="1599922753743" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599310983731">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1599310983731" />
+    <state x="446" y="54" key="#com.intellij.ide.util.MemberChooser" timestamp="1599533659159">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="54" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1599533659159" />
+    <state x="488" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597284348422">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="488" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1597284348422" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1599310948715">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1599310948715" />
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom" timestamp="1599534723062">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1599534723062" />
+    <state width="1237" height="150" key="GridCell.Tab.0.center" timestamp="1599534723062">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1599534723062" />
+    <state width="1237" height="150" key="GridCell.Tab.0.left" timestamp="1599534723061">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1599534723061" />
+    <state width="1237" height="150" key="GridCell.Tab.0.right" timestamp="1599534723062">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1599534723062" />
+    <state width="1237" height="207" key="GridCell.Tab.1.bottom" timestamp="1597390582173">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1597390582173" />
+    <state width="1237" height="207" key="GridCell.Tab.1.center" timestamp="1597390582173">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1597390582173" />
+    <state width="1237" height="207" key="GridCell.Tab.1.left" timestamp="1597390582173">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1597390582173" />
+    <state width="1237" height="207" key="GridCell.Tab.1.right" timestamp="1597390582173">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1597390582173" />
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1599310544272">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="324" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1599310544272" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1599532319233">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1599532319233" />
+  </component>
+</project>

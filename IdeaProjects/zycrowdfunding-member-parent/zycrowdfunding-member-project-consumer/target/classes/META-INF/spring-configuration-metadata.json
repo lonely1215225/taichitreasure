@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "oss.properties",
+      "type": "edu.hunau.crowd.config.OSSProperties",
+      "sourceType": "edu.hunau.crowd.config.OSSProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oss.properties.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "edu.hunau.crowd.config.OSSProperties"
+    },
+    {
+      "name": "oss.properties.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "edu.hunau.crowd.config.OSSProperties"
+    },
+    {
+      "name": "oss.properties.bucket-domain",
+      "type": "java.lang.String",
+      "sourceType": "edu.hunau.crowd.config.OSSProperties"
+    },
+    {
+      "name": "oss.properties.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "edu.hunau.crowd.config.OSSProperties"
+    },
+    {
+      "name": "oss.properties.end-point",
+      "type": "java.lang.String",
+      "sourceType": "edu.hunau.crowd.config.OSSProperties"
+    }
+  ],
+  "hints": []
+}

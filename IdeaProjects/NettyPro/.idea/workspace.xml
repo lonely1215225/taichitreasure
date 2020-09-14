@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68f97f92-03a6-40d1-a3dd-2e152d47b443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NettyPro" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\IntelliJ IDEA 2019.3.3\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\IntelliJ IDEA 2019.3.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hLTrGWpLhOyRoaQYo9SEhFPC05" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.GroupChatClient">
+    <configuration name="CC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.CC" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.chat.GroupChatClient" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.chat.GroupChatServer" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.NIOServer" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NIOTraining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.nio.NIOTraining" />
+      <module name="NettyPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CC" />
+      <item itemvalue="Application.GroupChatClient" />
+      <item itemvalue="Application.GroupChatServer" />
+      <item itemvalue="Application.NIOServer (1)" />
+      <item itemvalue="Application.NIOTraining" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupChatClient" />
+        <item itemvalue="Application.GroupChatServer" />
+        <item itemvalue="Application.NIOServer (1)" />
+        <item itemvalue="Application.CC" />
+        <item itemvalue="Application.NIOTraining" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f97f92-03a6-40d1-a3dd-2e152d47b443" name="Default Changelist" comment="" />
+      <created>1599789574340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599789574340</updated>
+      <workItem from="1599789586877" duration="14335000" />
+      <workItem from="1599877874330" duration="4542000" />
+      <workItem from="1599885458096" duration="283000" />
+      <workItem from="1599886874972" duration="24000" />
+      <workItem from="1599886943578" duration="13847000" />
+      <workItem from="1599923092609" duration="280000" />
+      <workItem from="1599973136325" duration="16158000" />
+      <workItem from="1600053603742" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599989581356">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="240" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1599989581356" />
+    <state x="584" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1599983724253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="584" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1599983724253" />
+    <state x="541" y="154" key="#xdebugger.evaluate" timestamp="1599999160437">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="541" y="154" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1599999160437" />
+    <state width="430" height="466" key="DebuggerActiveHint" timestamp="1599999009699">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="430" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1599999009699" />
+    <state width="1454" height="182" key="GridCell.Tab.0.bottom" timestamp="1600000123954">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="182" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600000123954" />
+    <state width="1454" height="182" key="GridCell.Tab.0.center" timestamp="1600000123954">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="182" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600000123954" />
+    <state width="1454" height="182" key="GridCell.Tab.0.left" timestamp="1600000123954">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="182" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600000123954" />
+    <state width="1454" height="182" key="GridCell.Tab.0.right" timestamp="1600000123954">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="182" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600000123954" />
+    <state width="1454" height="233" key="GridCell.Tab.1.bottom" timestamp="1599999171403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="233" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599999171403" />
+    <state width="1454" height="233" key="GridCell.Tab.1.center" timestamp="1599999171403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="233" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1599999171403" />
+    <state width="1454" height="233" key="GridCell.Tab.1.left" timestamp="1599999171403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="233" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1599999171403" />
+    <state width="1454" height="233" key="GridCell.Tab.1.right" timestamp="1599999171403">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1454" height="233" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1599999171403" />
+    <state x="459" y="251" key="Performance.Activity.Monitor" timestamp="1599886993941">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="459" y="251" key="Performance.Activity.Monitor/0.0.1536.864@0.0.1536.864" timestamp="1599886993941" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1600053661561">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1600053661561" />
+    <state x="455" y="256" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599911164779">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="455" y="256" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1599911164779" />
+    <state x="442" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1599973337173">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="442" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1599973337173" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="socketChannel" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../zycrowdfunding/zycrowdfunding-common-reverse/zycrowdfunding-common-reverse.iml" filepath="$PROJECT_DIR$/../zycrowdfunding/zycrowdfunding-common-reverse/zycrowdfunding-common-reverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zycrowdfunding/zycrowdfunding-common-util/zycrowdfunding-common-util.iml" filepath="$PROJECT_DIR$/../zycrowdfunding/zycrowdfunding-common-util/zycrowdfunding-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-api/zycrowdfunding-member-api.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-api/zycrowdfunding-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-authentication-consumer/zycrowdfunding-member-authentication-consumer.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-authentication-consumer/zycrowdfunding-member-authentication-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-entity/zycrowdfunding-member-entity.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-entity/zycrowdfunding-member-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-eureka/zycrowdfunding-member-eureka.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-eureka/zycrowdfunding-member-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-mysql-provider/zycrowdfunding-member-mysql-provider.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-mysql-provider/zycrowdfunding-member-mysql-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-order-consumer/zycrowdfunding-member-order-consumer.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-order-consumer/zycrowdfunding-member-order-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-parent.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-pay-consumer/zycrowdfunding-member-pay-consumer.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-pay-consumer/zycrowdfunding-member-pay-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-project-consumer/zycrowdfunding-member-project-consumer.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-project-consumer/zycrowdfunding-member-project-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-redis-provider/zycrowdfunding-member-redis-provider.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-redis-provider/zycrowdfunding-member-redis-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zycrowdfunding-member-zuul/zycrowdfunding-member-zuul.iml" filepath="$PROJECT_DIR$/zycrowdfunding-member-zuul/zycrowdfunding-member-zuul.iml" />
+    </modules>
+  </component>
+</project>

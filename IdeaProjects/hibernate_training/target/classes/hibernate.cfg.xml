@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+		
+<hibernate-configuration>
+
+	<session-factory>
+    	<!-- 配置连接数据库的基本信息 -->
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <!-- jdbc:mysql:///spring 简写,即如果只是连接本机的默认端口，可以省略localhost:3306
+        	全写的URL是：jdbc:mysql://localhost:3306/spring
+         -->
+        <property name="hibernate.connection.url">jdbc:mysql:///hibernate_training?serverTimezone=Asia/Shanghai</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">123456</property>
+        <!-- 连接数据库的方言 -->
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+            <property name="hibernate.dialect.storage_engine">innodb</property>
+        <!-- 在执行操作时，是否在控制台打印SQL -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <!-- 是否对SQL进行格式化 
+        true : 显示原生的SQL语句
+        false: 显示是HQL语句
+        -->
+        <property name="hibernate.format_sql">true</property>
+        
+        <!-- 设置hibernate的事务隔离级别 -->
+        <property name="connection.isolation">4</property>
+        
+        <!-- 配置C3P0数据源连接池 -->
+        <property name="hibernate.c3p0.max_size">10</property>
+        <property name="hibernate.c3p0.min_size">5</property>
+        <property name="hibernate.c3p0.acquire_increment">2</property>
+        <property name="hibernate.c3p0.idle_test_period">2000</property>
+        <property name="hibernate.c3p0.timeout">2000</property>
+        <property name="hibernate.c3p0.max_statements">10</property>
+        
+        <!-- 自动生成数据表的策略 -->
+        <!-- 
+        create-drop : 加载hibernate时创建表，退出时删除表
+        create : 每次加载hibernate，重新创建数据库表结构
+        update ; 加载hibernate自动更新数据库结构。
+        validate : 加载hibernate时，验证创建数据库表的结构
+        
+        我们在项目中，常用update,validate
+         -->
+        <property name="hibernate.hbm2ddl.auto">validate</property>
+        
+        <!-- 映射 -->
+        <mapping resource="Department.hbm.xml"/>
+        <mapping resource="Employee.hbm.xml"/>
+    </session-factory>
+
+</hibernate-configuration>

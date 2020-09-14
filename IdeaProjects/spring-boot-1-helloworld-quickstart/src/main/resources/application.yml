@@ -1,0 +1,12 @@
+server:
+  port: 8081
+person:
+  name: 张卓悦
+  birth: 2020/7/02
+  map: {1: v1,2: v2}
+  dog:
+    name: 菲菲
+    gender: 女
+spring:
+  rabbitmq:
+    host: 192.168.137.194

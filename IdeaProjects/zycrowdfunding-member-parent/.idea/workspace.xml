@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff5cb7d3-716b-40d4-a1e4-ddbd6755e62a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\IntelliJ IDEA 2019.3.3\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\IntelliJ IDEA 2019.3.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fa6KhqSOOTRiKEPtjI9HE7wcA0" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11.0.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zycrowdfunding-member-order-consumer/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.hunau.crowd.config" />
+      <recent name="edu.hunau.crowd" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.hunau.crowd" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\zycrowdfunding-member-parent\zycrowdfunding-member-order-consumer\src\main\resources\templates" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\zycrowdfunding-member-parent\zycrowdfunding-member-entity\src\main\java\edu\hunau\crowd\entity\vo" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\zycrowdfunding-member-parent\zycrowdfunding-member-mysql-provider\src\main\java\edu\hunau\crowd\service\impl" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\zycrowdfunding-member-parent\zycrowdfunding-member-mysql-provider\src\main\java\edu\hunau\crowd\service\api" />
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\zycrowdfunding-member-parent\zycrowdfunding-member-order-consumer\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.hunau.crowd.entity.vo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\IdeaProjects\zycrowdfunding-member-parent\zycrowdfunding-member-mysql-provider\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjectMainClass">
+    <configuration name="AuthMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zycrowdfunding-member-authentication-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunau.crowd.AuthMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaCrowdMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zycrowdfunding-member-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunau.crowd.EurekaCrowdMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MSPCrowdMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zycrowdfunding-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunau.crowd.MSPCrowdMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zycrowdfunding-member-project-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunau.crowd.ProjectMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zycrowdfunding-member-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.hunau.crowd.ZuulMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZuulMainClass" />
+        <item itemvalue="Spring Boot.ProjectMainClass" />
+        <item itemvalue="Spring Boot.MSPCrowdMainClass" />
+        <item itemvalue="Spring Boot.EurekaCrowdMainClass" />
+        <item itemvalue="Spring Boot.AuthMainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19950332" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff5cb7d3-716b-40d4-a1e4-ddbd6755e62a" name="Default Changelist" comment="" />
+      <created>1596443798205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596443798205</updated>
+      <workItem from="1596443811326" duration="12064000" />
+      <workItem from="1596463702043" duration="45000" />
+      <workItem from="1596463758383" duration="9736000" />
+      <workItem from="1596473556062" duration="66000" />
+      <workItem from="1596515878314" duration="16816000" />
+      <workItem from="1596548470627" duration="2990000" />
+      <workItem from="1596594927902" duration="13930000" />
+      <workItem from="1596685205637" duration="15294000" />
+      <workItem from="1596779438992" duration="381000" />
+      <workItem from="1596779841041" duration="21199000" />
+      <workItem from="1596855886117" duration="17811000" />
+      <workItem from="1596944236930" duration="15997000" />
+      <workItem from="1597116724933" duration="1457000" />
+      <workItem from="1597125496675" duration="71000" />
+      <workItem from="1597131749432" duration="697000" />
+      <workItem from="1598457215745" duration="695000" />
+      <workItem from="1599114983683" duration="82000" />
+      <workItem from="1599531697600" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1596961318364">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1596961318364" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596457863034">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1596457863034" />
+    <state x="353" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1596974152972">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="353" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1596974152972" />
+    <state x="115" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596542420257">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="115" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1596542420257" />
+    <state x="188" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1596542425889">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="188" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1596542425889" />
+    <state x="421" y="69" key="FileChooserDialogImpl" timestamp="1596961171013">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="69" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1596961171013" />
+    <state width="1237" height="155" key="GridCell.Tab.0.bottom" timestamp="1596976010304">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1596976010304" />
+    <state width="1237" height="155" key="GridCell.Tab.0.center" timestamp="1596976010303">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1596976010303" />
+    <state width="1237" height="155" key="GridCell.Tab.0.left" timestamp="1596976010303">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1596976010303" />
+    <state width="1237" height="155" key="GridCell.Tab.0.right" timestamp="1596976010304">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1596976010304" />
+    <state width="966" height="159" key="GridCell.Tab.1.bottom" timestamp="1596976010287">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="966" height="159" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1596976010287" />
+    <state width="966" height="159" key="GridCell.Tab.1.center" timestamp="1596976010287">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="966" height="159" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1596976010287" />
+    <state width="966" height="159" key="GridCell.Tab.1.left" timestamp="1596976010287">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="966" height="159" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1596976010287" />
+    <state width="966" height="159" key="GridCell.Tab.1.right" timestamp="1596976010287">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="966" height="159" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1596976010287" />
+    <state x="221" y="79" key="IDE.errors.dialog" timestamp="1596612968348">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="221" y="79" key="IDE.errors.dialog/0.0.1280.689@0.0.1280.689" timestamp="1596612968348" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1596450571134">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.689@0.0.1280.689" timestamp="1596450571134" />
+    <state x="288" y="42" key="NewModule_or_Project.wizard" timestamp="1596961196727">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="288" y="42" key="NewModule_or_Project.wizard/0.0.1280.689@0.0.1280.689" timestamp="1596961196727" />
+    <state x="113" y="0" key="SettingsEditor" timestamp="1596960052360">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="113" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1596960052360" />
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1598458478816">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1598458478816" />
+    <state x="412" y="47" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596704472483">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="412" y="47" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1596704472483" />
+    <state x="28" y="0" key="new project wizard" timestamp="1596959828110">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1596959828110" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1596812712060">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1596812712060" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1596521413699">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1596521413699" />
+  </component>
+</project>

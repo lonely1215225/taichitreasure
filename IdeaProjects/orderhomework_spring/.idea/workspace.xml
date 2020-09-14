@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e73e57c4-6421-4466-bfaa-e33ca45c7f2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="orderhomework_spring" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bIWrn7PPqtY5CT5fUrg7e5q256" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.hunau.spring" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.sourceLook">
+    <configuration name="test.getAllOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orderhomework_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hunau.spring" />
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.spring.test" />
+      <option name="METHOD_NAME" value="getAllOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.getCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orderhomework_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hunau.spring" />
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.spring.test" />
+      <option name="METHOD_NAME" value="getCustomer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.sourceLook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orderhomework_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hunau.spring" />
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.spring.test" />
+      <option name="METHOD_NAME" value="sourceLook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orderhomework_spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hunau.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hunau.spring" />
+      <option name="MAIN_CLASS_NAME" value="edu.hunau.spring.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.sourceLook" />
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="JUnit.test.getCustomer" />
+        <item itemvalue="JUnit.test.getAllOrders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e73e57c4-6421-4466-bfaa-e33ca45c7f2a" name="Default Changelist" comment="" />
+      <created>1588320289373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588320289373</updated>
+      <workItem from="1588320293965" duration="21165000" />
+      <workItem from="1588924607924" duration="324000" />
+      <workItem from="1594981201585" duration="126000" />
+      <workItem from="1594981369740" duration="526000" />
+      <workItem from="1597713911854" duration="11651000" />
+      <workItem from="1597734801420" duration="2598000" />
+      <workItem from="1597816207873" duration="14887000" />
+      <workItem from="1598236659385" duration="11427000" />
+      <workItem from="1599666306775" duration="1101000" />
+      <workItem from="1599720252612" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597714170374">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="488" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1597714170374" />
+    <state x="195" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597720317169">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="195" y="270" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1597720317169" />
+    <state x="425" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1597720319520">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="425" y="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1597720319520" />
+    <state x="396" y="47" key="#xdebugger.evaluate" timestamp="1598245710001">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="396" y="47" key="#xdebugger.evaluate/0.0.1280.689@0.0.1280.689" timestamp="1598245710001" />
+    <state width="1226" height="461" key="DebuggerActiveHint" timestamp="1598246536349">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1226" height="461" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1598246536349" />
+    <state width="1237" height="240" key="GridCell.Tab.0.bottom" timestamp="1598279384544">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1598279384544" />
+    <state width="1237" height="240" key="GridCell.Tab.0.center" timestamp="1598279384541">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1598279384541" />
+    <state width="1237" height="240" key="GridCell.Tab.0.left" timestamp="1598279384540">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1598279384539" />
+    <state width="1237" height="240" key="GridCell.Tab.0.right" timestamp="1598279384542">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1598279384542" />
+    <state width="1237" height="240" key="GridCell.Tab.1.bottom" timestamp="1598279384547">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1598279384547" />
+    <state width="1237" height="240" key="GridCell.Tab.1.center" timestamp="1598279384546">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1598279384546" />
+    <state width="1237" height="240" key="GridCell.Tab.1.left" timestamp="1598279384545">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1598279384545" />
+    <state width="1237" height="240" key="GridCell.Tab.1.right" timestamp="1598279384546">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="240" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1598279384546" />
+    <state width="647" height="352" key="XDebugger.FullValuePopup" timestamp="1597721784025">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="647" height="352" key="XDebugger.FullValuePopup/0.0.1280.689@0.0.1280.689" timestamp="1597721784025" />
+    <state x="390" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1599720253047">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1599666303866" />
+    <state x="390" y="212" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1599720253047" />
+    <state x="58" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598246943329">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="58" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.689@0.0.1280.689" timestamp="1598246943329" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1598236697603">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1598236697603" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/hunau/spring/aaa/AOPTest.java</url>
+          <line>16</line>
+          <properties class="edu.hunau.spring.aaa.AOPTest" method="logStart">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/hunau/spring/aaa/TestAOP.java</url>
+          <line>7</line>
+          <properties class="edu.hunau.spring.aaa.TestAOP" method="div" />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/hunau/spring/test.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

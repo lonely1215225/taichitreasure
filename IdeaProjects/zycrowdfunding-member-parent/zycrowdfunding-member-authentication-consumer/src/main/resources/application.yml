@@ -1,0 +1,25 @@
+server:
+  port: 4000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+  instance:
+    prefer-ip-address: true
+spring:
+  application:
+    name: taiChiMan-crowd-auth
+  thymeleaf:
+    cache: false
+  redis:
+    host: 192.168.0.125
+  session:
+    store-type: redis
+#默认thymeleaf的prefix = "classpath:/templates/"; suffix = ".html";
+message:
+  prop:
+    host: "https://feginesms.market.alicloudapi.com"
+    path: "/codeNotice"
+    app-code: "25ae8fd6e4ba477c8eb12722ea4c1844"
+    sign: "1"
+    skin: "8"

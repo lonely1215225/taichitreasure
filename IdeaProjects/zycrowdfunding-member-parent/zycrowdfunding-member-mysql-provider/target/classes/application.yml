@@ -1,0 +1,21 @@
+server:
+  port: 2000
+spring:
+  application:
+    name: taiChiMan-crowd-mysql
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/project_crowd?serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+mybatis:
+  mapper-locations: classpath*:/mybatis/mapper/*Mapper.xml
+logging:
+  level:
+    edu.hunau.crowd.mapper: debug
+    edu.hunau.crowd.test: debug

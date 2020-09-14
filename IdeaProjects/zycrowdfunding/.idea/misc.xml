@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/zycrowdfunding-admin-webui" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zycrowdfunding-admin-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../zycrowdfunding-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/zycrowdfunding-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/zycrowdfunding-common-reverse/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/zycrowdfunding-admin-parent/zycrowdfunding-admin-component/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11.0.5" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
