@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="OSAlgorithm:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/OSAlgorithm_jar</output-path>
-    <root id="archive" name="OSAlgorithm.jar">
-      <element id="module-output" name="OSAlgorithm" />
-    </root>
-  </artifact>
-</component>
