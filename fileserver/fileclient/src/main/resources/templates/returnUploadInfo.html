@@ -1,0 +1,21 @@
+<!DOCTYPE html >
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>uploadPage</title>
+</head>
+<body>
+<div th:if="${message ne '' or message ne null}" align="center">
+    <table border="1px" align="center">
+        <h1>上传成功,返回UUID</h1>
+        <tr th:each="fileUUID:${fileUUID}">
+            <td>
+                <scan th:text="${fileUUID}" th:if="${fileUUID} ne null"></scan>
+                <br></td>
+        </tr>
+    </table>
+    <a th:href="${'http://localhost:8080/fileserver/servlet/getFileServlet?fileUUIDs='}+${fileUUIDs}">去查看文件上传详情</a>
+</div>
+
+</body>
+</html>

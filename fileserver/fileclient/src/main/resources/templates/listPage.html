@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>listFiles</title>
+</head>
+<body>
+<table border="1px" align="center">
+    <tr>
+        <td>文件名</td>
+        <td>文件大小</td>
+        <td>文件类型</td>
+        <td>上传日期</td>
+    </tr>
+    <tr th:each="fileMetaInfo : ${fileMetaInfos}">
+        <td th:text="${fileMetaInfo.getSrcName().split('_')[1]}"></td>
+        <td th:text="${fileMetaInfo.getFileSize()/1024}+'KB'"></td>
+        <td th:text="${fileMetaInfo.getFileType()}"></td>
+        <td th:text="${fileMetaInfo.getDate()}"></td>
+        <td><a th:href="${'download?fileName='+fileMetaInfo.getSrcName()+'&filePos='+fileMetaInfo.getFilePos()
+        +'&secretKey='+fileMetaInfo.getSecretKey()}">download</a></td>
+    </tr>
+</table>
+</body>
+</html>
